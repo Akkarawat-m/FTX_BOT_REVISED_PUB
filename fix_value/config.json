@@ -1,0 +1,10 @@
+{
+  "apiKey": "",
+  "secret": "",
+  "sub_account": "",
+  "account_name": "",
+  "pair": "SOL/USD",
+  "token_name": "SOL",
+  "qoute_currency": "USD",
+  "rebalance_value": 1400
+}

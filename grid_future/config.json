@@ -1,0 +1,14 @@
+{
+  "apiKey": "",
+  "secret": "",
+  "sub_account": "",
+  "account_name": "",
+  "pair": "XRP-PERP",
+  "token_name": "XRP-PERP",
+  "qoute_currency": "USD",
+  "up_zone": 1.0,
+  "low_zone": 0.5,
+  "capital": 800,
+  "leverage": 2,
+  "grid_size_usd": 2
+}

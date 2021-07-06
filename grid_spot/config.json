@@ -1,0 +1,14 @@
+{
+  "apiKey": "",
+  "secret": "",
+  "sub_account": "",
+  "account_name": "",
+  "pair": "DOGE/USD",
+  "token_name": "DOGE",
+  "qoute_currency": "USD",
+  "up_zone": 0.5,
+  "low_zone": 0.2,
+  "capital": 350,
+  "leverage": 1,
+  "grid_size_usd": 2
+}
