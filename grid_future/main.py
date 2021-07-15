@@ -535,7 +535,7 @@ while True:
 
             while price < low_zone:
                 print("Out of lower trading zone")
-                print("Price lower than {}".format(str(lowzone)))
+                print("Price lower than {}".format(str(low_zone)))
                 price = get_price()
                 time.sleep(5)
                 
